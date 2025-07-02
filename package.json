@@ -1,0 +1,21 @@
+{
+  "name": "legalifiedai",
+  "version": "1.0.0",
+  "description": "A global, multilingual AI-powered legal platform for document analysis, self-representation, lawyer matchmaking, and more.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.1"
+  }
+}
